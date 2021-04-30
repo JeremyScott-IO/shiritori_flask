@@ -14,6 +14,6 @@ pytz==2019.3
 requests==2.22.0
 romkan==0.2.1
 six==1.14.0
-urllib3==1.25.7
+urllib3==1.25.8
 Werkzeug==0.16.0
 WTForms==2.2.1
